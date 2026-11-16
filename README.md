@@ -1,2 +1,2 @@
-# LiquidBSD_tools
+# Hazardutils
 Super compact toolset for posix systems
